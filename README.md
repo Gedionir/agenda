@@ -6,7 +6,7 @@
 
 * Nome completo
 
-*(Telefone
+* Telefone
 
 * E-mail
 
