@@ -1,3 +1,4 @@
+📒 Agenda Django – Sistema de Contatos
 ✨ Funcionalidades
 Cadastro, edição, listagem e exclusão de contatos (CRUD básico).
 
