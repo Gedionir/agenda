@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias utilizadas
 * Python 3.x
 
-* Django 2.x (ou a versão utilizada na época)
+* Django 2.x 
 
 * SQLite (banco de dados)
 
